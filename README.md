@@ -5,20 +5,6 @@ Site Template İndex advanced
 
 ![image](https://github.com/egehan0250/CodeShareSite/assets/79449566/3ae9db91-7198-4fba-836f-660ef4c9ea88)
 
-
-
-
-
-
-# 🛠️ Installation 🛠️
-
-- Download and install [NodeJs](https://nodejs.org/en/download) on your computer.
-- Download the project as Zip to your computer and unzip it.
-- Enter the folder you extracted from the zip and open a terminal to the location of that folder, then enter the following commands.
-`npm install`
-- Start the bot by entering the following command in Terminal
-`node .`
-
 ---
 - ✨ [For Support](https://github.com/sponsors/egehan0250) <br>
 - 🏓 [Fast Uptime](https://fastuptime.com/)<br>
