@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-inter: Inter;
+  --font-barlow: Barlow;
+  --font-ubuntu: Ubuntu;
+  --font-work-sans: "Work Sans";
+  --font-yu-gothic-ui: "Yu Gothic UI";
+  --font-kokoro: Kokoro;
+  --font-merge-one: "Merge One";
+  --font-font: font;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-35xl: 54px;
+  --font-size-11xl: 30px;
+  --font-size-mini: 15px;
+  --font-size-3xl: 22px;
+  --font-size-xs: 12px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --b5: #898282;
+  --color-gray-100: #182632;
+  --color-gray-200: #222;
+  --color-gray-300: #121e28;
+  --color-gray-400: rgba(255, 255, 255, 0.8);
+  --color-gray-500: rgba(0, 0, 0, 0.16);
+  --color-darkslategray-100: #40354b;
+  --color-darkslategray-200: #2a3744;
+  --purple-light: #e2c1f9;
+  --color-saddlebrown: #4d3705;
+  --color-gainsboro: #e5e5e5;
+  --color-darkturquoise: #23c9de;
+  --color-cornflowerblue-100: #5c9dff;
+  --color-cornflowerblue-200: rgba(92, 157, 255, 0.5);
+  --color-crimson: #ef476f;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-97xl: 116px;
+  --gap-3xs: 10px;
+  --gap-5xl: 24px;
+  --gap-9xs: 4px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-7xl: 26px;
+  --padding-8xs: 5px;
+  --padding-3xs: 10px;
+  --padding-13xl: 32px;
+
+  /* border radiuses */
+  --br-81xl: 100px;
+  --br-4xl: 23px;
+  --br-xs: 12px;
+  --br-base: 16px;
+  --br-31xl: 50px;
+  --br-21xl: 40px;
+}
